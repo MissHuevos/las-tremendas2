@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-20 03:08:41 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/transportation/grongle_boat": {
     "criteria": {
       "in_water": "2024-12-20 02:50:58 +0000"
@@ -173,6 +179,18 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-20 03:30:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 03:18:52 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bow_helmet": {
     "criteria": {
       "has_arrow": "2024-12-20 02:50:37 +0000"
@@ -197,6 +215,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 03:33:29 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/chainmail_helmet": {
     "criteria": {
       "has_apple": "2024-12-20 02:54:58 +0000"
@@ -215,9 +239,27 @@
     },
     "done": true
   },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 03:33:24 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/zombie_helmet": {
     "criteria": {
       "has_rotten_flesh": "2024-12-20 02:50:34 +0000"
+    },
+    "done": true
+  },
+  "undergarden:recipes/decorations/gloom_o_lantern": {
+    "criteria": {
+      "has_torch": "2024-12-20 03:08:51 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/birch": {
+    "criteria": {
+      "has_wood": "2024-12-20 03:18:52 +0000"
     },
     "done": true
   },
@@ -251,6 +293,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/decorations/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-20 03:13:46 +0000"
+    },
+    "done": true
+  },
   "knightquest:recipes/misc/bow_leggings": {
     "criteria": {
       "has_arrow": "2024-12-20 02:50:37 +0000"
@@ -272,6 +320,12 @@
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-20 03:01:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 03:18:52 +0000"
     },
     "done": true
   },
@@ -335,6 +389,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2024-12-20 03:06:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-20 03:02:04 +0000"
@@ -383,6 +443,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2024-12-20 03:33:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-20 03:01:38 +0000"
@@ -424,6 +490,12 @@
       "log_spam_fixer": "2024-12-20 02:43:12 +0000"
     },
     "done": false
+  },
+  "knightquest:recipes/misc/steel_sword": {
+    "criteria": {
+      "has_charcoal": "2024-12-20 03:15:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
@@ -545,6 +617,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/food_prep_table": {
+    "criteria": {
+      "has_item": "2024-12-20 03:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-20 03:02:43 +0000"
@@ -599,6 +677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2024-12-20 03:08:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2024-12-20 02:56:33 +0000"
@@ -635,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-20 03:06:20 +0000"
+    },
+    "done": true
+  },
   "bossominium:loot_bosses_a": {
     "criteria": {
       "loot_bosses_a": "2024-12-20 02:43:11 +0000"
@@ -662,6 +752,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-20 02:50:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-20 03:12:57 +0000"
     },
     "done": true
   },
@@ -748,6 +844,18 @@
       "log_spam_fixer": "2024-12-20 02:43:12 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-20 03:06:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/stove": {
+    "criteria": {
+      "has_campfire": "2024-12-20 03:07:46 +0000"
+    },
+    "done": true
   },
   "incendium:technical/using/ragnarok": {
     "criteria": {
@@ -839,6 +947,19 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-20 03:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_slopes": "2024-12-20 03:19:07 +0000",
+      "minecraft:river": "2024-12-20 03:17:39 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-20 03:02:43 +0000"
@@ -850,6 +971,13 @@
       "has_stick": "2024-12-20 03:02:04 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2024-12-20 03:27:03 +0000",
+      "apple": "2024-12-20 03:12:57 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/transportation/sorting_boat": {
     "criteria": {
@@ -872,6 +1000,12 @@
   "legendary_monsters:nether_root": {
     "criteria": {
       "custom_test_name": "2024-12-20 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "knightquest:recipes/misc/steel_axe": {
+    "criteria": {
+      "has_charcoal": "2024-12-20 03:15:37 +0000"
     },
     "done": true
   },

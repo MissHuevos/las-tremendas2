@@ -4540,3 +4540,105 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 03:02:43.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Stone Age]
 [20Dec2024 03:02:49.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Getting an Upgrade]
 [20Dec2024 03:02:56.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Dungeon Now Loading]
+[20Dec2024 03:08:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Bonfire Lit]
+[20Dec2024 03:12:05.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin was slain by Infected Police
+[20Dec2024 03:12:05.292] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:12:05.304] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:12:46.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Dec2024 03:14:16.430] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Dec2024 03:17:07.440] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:07.440] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:07.441] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:07.441] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:07.533] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.836] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.837] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.837] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.860] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.861] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.861] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has made the advancement [The Parrots and the Bats]
+[20Dec2024 03:22:45.868] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:22:45.869] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:22:45.869] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:22:45.870] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:12.858] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:12.861] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:12.862] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:12.863] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:18.965] [Worker-Main-2/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[20Dec2024 03:23:18.966] [Worker-Main-2/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[20Dec2024 03:23:20.472] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{the_afterdark:teleport_block} but failed at location BlockPos{x=692, y=-46, z=-212}
+[20Dec2024 03:23:39.023] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:39.024] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:39.024] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:39.025] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.572] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.572] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.572] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.573] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.573] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:26:05.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin was shot by Skeleton Girl
+[20Dec2024 03:26:05.949] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:26:05.962] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:28:27.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN is bleeding. MAIDERMAN was slain by Clicker
+[20Dec2024 03:28:27.946] [Server thread/WARN] [tombstone/]: The death event of the player MAIDERMAN was canceled by another mod
+[20Dec2024 03:28:27.959] [Server thread/INFO] [tombstone/]: The player MAIDERMAN has successfully been saved
+[20Dec2024 03:28:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin died from dehydration
+[20Dec2024 03:28:39.053] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:28:39.062] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:28:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin died from dehydration
+[20Dec2024 03:28:57.049] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:28:57.056] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:29:06.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN is bleeding. MAIDERMAN died from dehydration
+[20Dec2024 03:29:06.546] [Server thread/WARN] [tombstone/]: The death event of the player MAIDERMAN was canceled by another mod
+[20Dec2024 03:29:06.552] [Server thread/INFO] [tombstone/]: The player MAIDERMAN has successfully been saved
+[20Dec2024 03:29:07.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin died from dehydration
+[20Dec2024 03:29:07.044] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:29:07.051] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:29:13.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN died from dehydration
+[20Dec2024 03:29:17.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin died from dehydration
+[20Dec2024 03:29:58.718] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.719] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.720] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.752] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.752] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.753] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.753] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:17.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Monster Hunter]
+[20Dec2024 03:30:27.371] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:27.371] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:27.389] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:27.389] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.522] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.523] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.523] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.524] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.525] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.641] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.642] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:12.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has made the advancement [Monster Hunter]
+[20Dec2024 03:31:21.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GValentin moved too quickly! -8.147312650385857,-0.125,6.038963579827055
+[20Dec2024 03:31:21.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[20Dec2024 03:31:22.453] [Worker-Main-1/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[20Dec2024 03:31:22.454] [Worker-Main-1/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[20Dec2024 03:31:49.679] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.317] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.317] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.318] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.318] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.436] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:32:14.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN is bleeding. MAIDERMAN was slain by Runner
+[20Dec2024 03:32:14.396] [Server thread/WARN] [tombstone/]: The death event of the player MAIDERMAN was canceled by another mod
+[20Dec2024 03:32:14.406] [Server thread/INFO] [tombstone/]: The player MAIDERMAN has successfully been saved
+[20Dec2024 03:32:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin was slain by Runner
+[20Dec2024 03:32:32.947] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:32:32.962] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:32:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin was slain by Runner
+[20Dec2024 03:33:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has made the advancement [Knowledge of Death]
+[20Dec2024 03:33:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has reached the goal [A Fast Comeback]
+[20Dec2024 03:33:10.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN was slain by Runner
+[20Dec2024 03:33:24.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Knowledge of Death]
+[20Dec2024 03:33:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has reached the goal [A Fast Comeback]
+[20Dec2024 03:33:29.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has reached the goal [Here They Come]
+[20Dec2024 03:34:12.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has made the advancement [Knowledge raises the soul]

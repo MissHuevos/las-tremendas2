@@ -15628,3 +15628,310 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [20Dec2024 03:07:29.710] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [20Dec2024 03:07:33.263] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
 [20Dec2024 03:07:35.049] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:07:57.402] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:07:59.060] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:08:05.159] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:08:41.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Bonfire Lit]
+[20Dec2024 03:09:10.011] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:10.903] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:11.903] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:12.804] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:13.701] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:14.605] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:15.601] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:16.405] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:17.309] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:18.564] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:19.462] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:20.712] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:21.615] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:22.513] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:09:23.404] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:10:55.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:10:55.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:11:57.597] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:12:05.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin was slain by Infected Police
+[20Dec2024 03:12:05.292] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:12:05.304] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:12:46.682] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Dec2024 03:14:16.430] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity zombie_island:walker but it was marked as removed already
+[20Dec2024 03:14:54.113] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=417, y=65, z=-283} at Chest with:minecraft:chests/simple_dungeon
+[20Dec2024 03:15:28.553] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:15:31.856] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:15:33.855] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:15:37.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:15:55.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:15:55.375] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:16:15.511] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:17:07.440] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:07.440] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:07.441] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:07.441] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:07.533] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.836] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.837] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.837] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.860] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.861] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:13.861] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:17:16.833] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=465, y=-25, z=21} at Coffin with:graveyard:chests/crypt_loot
+[20Dec2024 03:17:23.343] [Worker-Main-3/DEBUG] [ModernFix/]: Structure conjurer_illager:theatre/root is being run through DFU (hash af439650047efa7cb639336b661e4e106187d256e02a7f50c7abadf7234af29d), this will cause launch time delays
+[20Dec2024 03:17:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has made the advancement [The Parrots and the Bats]
+[20Dec2024 03:17:54.855] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:ruin/glacial/interior1 is being run through DFU (hash 177372923eb6a9e054ad90ce38060773071dda764cda7ec65d128eaf3642ed6f), this will cause launch time delays
+[20Dec2024 03:17:58.658] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:haunted_house/start_pool/haunted_house_01 is being run through DFU (hash b2a0a03ff0b8dc541f6487f5696fd224a5582ae0dcd9b947e26de2316e2b771c), this will cause launch time delays
+[20Dec2024 03:18:09.212] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_0 is being run through DFU (hash 509ef07905d3e6f1a301170bbd81f8df42bd9e5436df2a211855d1fa711e53d7), this will cause launch time delays
+[20Dec2024 03:18:09.266] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:lighthouse/lighthouse_part_1 is being run through DFU (hash f33348679c61f085ea796174eb5756e668b6d051c9721b1d9090d04667a0f4f4), this will cause launch time delays
+[20Dec2024 03:18:09.293] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:wishing_well/wishing_well_0 is being run through DFU (hash 36e5928c5fc5ff62065dfe140c9fd2681404c13c077424a9d53232844b7bf0cf), this will cause launch time delays
+[20Dec2024 03:18:09.315] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_0_main is being run through DFU (hash fdaaae3527bd087ae85b0ae4174af4bc8e5fb752d703b2cfbedea3cec78e2eaa), this will cause launch time delays
+[20Dec2024 03:18:09.401] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:fishing_hut/fishing_hut_main is being run through DFU (hash 8f26c2abd3d1eec4b5f774434255b0e8df746c1a998aa0cfaad1631f80b7dd99), this will cause launch time delays
+[20Dec2024 03:18:19.524] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_birch is being run through DFU (hash faf49dca989697854006539fd758f66768eed6a63446e4f112ee4d604886fd0c), this will cause launch time delays
+[20Dec2024 03:18:19.536] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_jungle is being run through DFU (hash 8a061e8290b125c47b638267fd25e882a82ddf02265ce2d267d80122e4d6c0f1), this will cause launch time delays
+[20Dec2024 03:18:19.547] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_savana is being run through DFU (hash f3ae5a5647ea2a0920511f0892f4796ee72a1ad9bd7d4776d65257b224e355f6), this will cause launch time delays
+[20Dec2024 03:18:19.558] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_spruce is being run through DFU (hash 34bee5cb066a5d99cc286a90cf190992cfd2b03b029591aae6084b0f0f5a07a3), this will cause launch time delays
+[20Dec2024 03:18:19.566] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_dark_oak is being run through DFU (hash fb365dd4568112118faa48985dbf40554039311e691b021d9126e2725c01055b), this will cause launch time delays
+[20Dec2024 03:18:19.575] [Worker-Main-2/DEBUG] [ModernFix/]: Structure nova_structures:well/well_anchor_oak is being run through DFU (hash 777e77557c8f9225a79f4b07fc6e5481178ad5792212b66bbf24f92f8f5a5e86), this will cause launch time delays
+[20Dec2024 03:18:31.915] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:madcowboss at BlockPos{x=522, y=84, z=-285} at Chest with:minecraft:chests/village/village_butcher
+[20Dec2024 03:18:50.340] [Worker-Main-1/DEBUG] [ModernFix/]: Structure hopo:portal9 is being run through DFU (hash 3a018c672c5690c2932cfe4df28a9ec77443d02b898f35033d8c99a78bf22ee1), this will cause launch time delays
+[20Dec2024 03:18:50.760] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:18:52.015] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:18:53.222] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:18:54.211] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:18:55.203] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:18:56.204] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:19:12.660] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village_jungle/jungle_village_center1 is being run through DFU (hash afc333fa476ea8904bdb895dac8d2d2103944401323fd2c9cdee523309acc7e7), this will cause launch time delays
+[20Dec2024 03:19:12.675] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village_swamp/swamp_village_center1 is being run through DFU (hash 5351220708eddd1288000c90fdb74d3f668bea82e70081bf414971fdbbf5f87d), this will cause launch time delays
+[20Dec2024 03:19:20.754] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:19:25.366] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:19:52.709] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:19:56.998] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_11 is being run through DFU (hash e13973044bf6be999c0861141e571cc165bc9d074c53dd2162990aaac762d503), this will cause launch time delays
+[20Dec2024 03:20:21.859] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of nova_structures:mangrove_witch_hut/mangrove_witch_hut_2
+[20Dec2024 03:20:55.320] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:20:55.340] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:21:58.555] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:22:24.778] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:22:45.868] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:22:45.869] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:22:45.869] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:22:45.870] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:22:46.585] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:23:10.389] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=694, y=-8, z=14} at Coffin with:graveyard:chests/crypt_loot
+[20Dec2024 03:23:12.858] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:12.861] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:12.862] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:12.863] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:17.715] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:23:18.965] [Worker-Main-2/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[20Dec2024 03:23:18.966] [Worker-Main-2/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[20Dec2024 03:23:20.472] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{the_afterdark:teleport_block} but failed at location BlockPos{x=692, y=-46, z=-212}
+[20Dec2024 03:23:28.594] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/roads/inter is being run through DFU (hash 8d702b5b7ad6d81e3f0941c2189999c9c4bbd51c5034c62f331835874750cdea), this will cause launch time delays
+[20Dec2024 03:23:28.661] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/house/small_1 is being run through DFU (hash 3a550d21a763eca27c53446779e411e639088c8c389ae9c3fa68a7b35741e869), this will cause launch time delays
+[20Dec2024 03:23:28.672] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/house/small_2 is being run through DFU (hash b454dda58c4d32121dd0817767047e67389a57e4257a8a2a96f4e6b1948e5f06), this will cause launch time delays
+[20Dec2024 03:23:28.678] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/house/small_3 is being run through DFU (hash eaab49d00160dc45b6631172e1fbe55e19d6279c0e90a96585051c0352e66e5b), this will cause launch time delays
+[20Dec2024 03:23:28.685] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/house/small_4 is being run through DFU (hash 0b4a7135b7b749af4845f217d20f317b1921a93d3358f52236a2d3231d49ed5d), this will cause launch time delays
+[20Dec2024 03:23:28.692] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/house/med_1 is being run through DFU (hash d888be3f4182bef46a2cd90ea873dad03edd66e788244e3c91eba544d2361d48), this will cause launch time delays
+[20Dec2024 03:23:28.701] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/house/med_2 is being run through DFU (hash 5a2d5aa28db20382ee5d6e4bb2720f2c2a3fc6928fd0c0cef210fc0882d74d26), this will cause launch time delays
+[20Dec2024 03:23:28.709] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/house/med_3 is being run through DFU (hash 9b0d2aaf32c1f2a5f6962376a17c46e84a761f044e59029245898b0540283282), this will cause launch time delays
+[20Dec2024 03:23:28.718] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/house/big_1 is being run through DFU (hash ecde1554b2c24fa5f2b03f9da6f9478e41e1053a5634ede6a9d940aa2ee65b74), this will cause launch time delays
+[20Dec2024 03:23:28.728] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/house/big_2 is being run through DFU (hash f2b4a027b602c7956b7558dee4cc1ba4ba26cce666573b916ac00123148970f8), this will cause launch time delays
+[20Dec2024 03:23:28.735] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/leatherworker is being run through DFU (hash a28a4674af5e1452a8a6c35b5d0ae54b714e5f4e04221f33c4e17657ec81a2dc), this will cause launch time delays
+[20Dec2024 03:23:28.737] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/library is being run through DFU (hash 875c7fc9b0aa7b4cbeb46bd682e73d4b26dae94b46ea7dfa4fe1d4a3b7c2cb66), this will cause launch time delays
+[20Dec2024 03:23:28.741] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/butcher is being run through DFU (hash a1f2883f9ea31ceb7227def239a8add47c2fdb4897b835da5f7791dc35cd9f4f), this will cause launch time delays
+[20Dec2024 03:23:28.745] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/cartographer is being run through DFU (hash c3bc1d9136a74998ff0a9f46e955bae939255cf0a42db9dc7915d5bfca34f19f), this will cause launch time delays
+[20Dec2024 03:23:28.747] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/chemist is being run through DFU (hash df79a6f07e62af67d49f12673e19ee49b1ef83b9fd843512819520620a7031af), this will cause launch time delays
+[20Dec2024 03:23:28.751] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/farm is being run through DFU (hash 7e625b19e4ca04dcd3b3a1b1985d603810b656dbf9ca7bece105c18ea5a861f1), this will cause launch time delays
+[20Dec2024 03:23:28.755] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/fishing_hut is being run through DFU (hash 92ac158b569bd78256c01178797ab93aa8f4595cdbaa869d0c89a31d9f51ec09), this will cause launch time delays
+[20Dec2024 03:23:28.757] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/mason is being run through DFU (hash b449c345be4d3a750b48e8c068da0704c604fb7cb72bd2ae6b78ebcdacc3c958), this will cause launch time delays
+[20Dec2024 03:23:28.761] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/shepherd is being run through DFU (hash 8617f278bd6a04ef2f68518bd49b773c040ef6b89419ff8cea65f5e5e888e0ac), this will cause launch time delays
+[20Dec2024 03:23:28.764] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/smith is being run through DFU (hash faa9250513181980b5d0a22aea6d2ddecdd833547127ba3aef3188e4a5fb7cc1), this will cause launch time delays
+[20Dec2024 03:23:28.768] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/jobsite/fd_farm is being run through DFU (hash 9085f46094ce3d29a4c7f7ca1555d4934c021921b5e6b738ce573fb0e3aef4bd), this will cause launch time delays
+[20Dec2024 03:23:28.770] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/bench is being run through DFU (hash 840cb3c424d5962d2434dd48cac8384e0ed901a7cb9fb80d717185addac9367a), this will cause launch time delays
+[20Dec2024 03:23:28.771] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/bush is being run through DFU (hash db60caefcfd171bb340c10b6cc772c62b39c2b471474900b0702e6ac4e0e3e5c), this will cause launch time delays
+[20Dec2024 03:23:28.772] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/fountain is being run through DFU (hash e99571d545c66bd9d713c9cb2f1cf5d968e72828bf5926e4e77f296041cad5f0), this will cause launch time delays
+[20Dec2024 03:23:28.774] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/market_stall is being run through DFU (hash 9dea937db71da0b965d1a4a342cbb7e725d53f82c1db3c82ea15d20d643e5b08), this will cause launch time delays
+[20Dec2024 03:23:28.774] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/table is being run through DFU (hash e0a260ac09236b5b41735ba9edd1d7d71bb8f016ced6c7c55bdbf440993b308e), this will cause launch time delays
+[20Dec2024 03:23:28.775] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/lamp_1 is being run through DFU (hash d2a6371f56e89e575d81a07265563f512caae7424e45e4243bf3c6ba905d207e), this will cause launch time delays
+[20Dec2024 03:23:28.776] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/lamp_2 is being run through DFU (hash 66698bb58f508d341d65a90212f83a5927f6d8af7e496c49835d3e279aeed8dc), this will cause launch time delays
+[20Dec2024 03:23:28.777] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/lamp_3 is being run through DFU (hash 44804d861b1cfe961b5c0af1bca0d8bc4ea235ba898eb9bc1ceda9dbc7bd3f83), this will cause launch time delays
+[20Dec2024 03:23:28.778] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/lamp_4 is being run through DFU (hash 863c295dbb42537d5917fb06470da6656709fceb838ff05257c9c435b0899813), this will cause launch time delays
+[20Dec2024 03:23:28.779] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/deco/lamp_5 is being run through DFU (hash 831292df8ee9751b52a5307e3ea61b74c65c578172b28e99082f8957cf301d4d), this will cause launch time delays
+[20Dec2024 03:23:28.795] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/roads/straight is being run through DFU (hash 727719cff1872fc3053cc6a593623b7d76060679f6d3b9cb5cfadd0b705463cc), this will cause launch time delays
+[20Dec2024 03:23:28.828] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/roads/t_3 is being run through DFU (hash 949b4cf8b5616d95f97ee861dc2602d34ce14aa015d22661d612e3bfd87e9526), this will cause launch time delays
+[20Dec2024 03:23:28.915] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/roads/t_1 is being run through DFU (hash 86a3c583c2b8386253e23e84d2931248d61cfdea93c0c71ddd31f26603f4f130), this will cause launch time delays
+[20Dec2024 03:23:29.170] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/roads/bent_1 is being run through DFU (hash f0b42676e9385ac521aa084a81e60483476e30ea7b2840b55764fec5cc79a1c6), this will cause launch time delays
+[20Dec2024 03:23:30.487] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/roads/t_2 is being run through DFU (hash 275b682d5d1bf857818daf6bfb68bad675da77af335719949869ce82cd026dee), this will cause launch time delays
+[20Dec2024 03:23:31.080] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/roads/bent_2 is being run through DFU (hash 81ca2c555bdd62b0acee263f2259a0b0cf3335d95d2a090f724e031fdfc35ec2), this will cause launch time delays
+[20Dec2024 03:23:31.085] [Worker-Main-2/DEBUG] [ModernFix/]: Structure ctov:village/mountain_alpine/roads/terminator is being run through DFU (hash bef9e944b8cd5584ab20fe0dde98f67834ddb51198a94670ad3da11d51a82db4), this will cause launch time delays
+[20Dec2024 03:23:39.023] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:39.024] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:39.024] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:39.025] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.570] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=763, y=-20, z=-318} at Chest with:graveyard:chests/crypt_loot
+[20Dec2024 03:23:44.572] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.572] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.572] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.573] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:44.573] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:23:45.407] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:23:46.907] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:23:55.395] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=791, y=60, z=-52} at Chest with:minecraft:chests/simple_dungeon
+[20Dec2024 03:23:56.490] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=793, y=-10, z=33} at Coffin with:graveyard:chests/crypt_loot
+[20Dec2024 03:24:04.890] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=485, y=-26, z=-355} at Sarcophagus with:graveyard:chests/crypt_loot
+[20Dec2024 03:24:08.267] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:09.708] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:11.213] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:12.655] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:16.357] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:17.809] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:19.406] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:20.857] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:23.409] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:24.860] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:26.407] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:28.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:29.456] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:31.053] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:32.564] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:34.005] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:35.504] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:36.904] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:38.355] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:39.660] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:39.808] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:40.562] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:41.563] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:24:48.615] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:05.518] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_09
+[20Dec2024 03:25:06.912] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_05 is being run through DFU (hash a70a81d21a9536ad233a7ffa18269984bf80d09c83ab2107258681f999a20798), this will cause launch time delays
+[20Dec2024 03:25:12.164] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:15.870] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_04 is being run through DFU (hash 292045c39a7bf9e7665c20db773c2ed653685b8391f044e5b35fb53cb71b9832), this will cause launch time delays
+[20Dec2024 03:25:16.019] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_05 is being run through DFU (hash 5865d5bca7626798b0fb348339a02dcc1ee551818e4ba728fcba3ac7bfe4f913), this will cause launch time delays
+[20Dec2024 03:25:32.416] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:33.013] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:34.812] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:37.160] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:38.562] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:40.167] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:42.967] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:44.462] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:45.763] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:47.462] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:47.771] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_03 is being run through DFU (hash 2585f9ec808368943a97ce36435db7a7e588f6c0aa7d59f983b3828260f6ec2e), this will cause launch time delays
+[20Dec2024 03:25:47.991] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:lighthouse/lighthouse_part_2 is being run through DFU (hash 72a6a69c4455c2899ed255d2e47c06e16586e99461fdc851d097d0e1833fb76d), this will cause launch time delays
+[20Dec2024 03:25:48.226] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:49.365] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:52.570] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:53.265] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:54.632] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_06 is being run through DFU (hash 1f580368cac5999df0a7c333976a7c447630e45aeb8c134c8c3f34cc1b3842b6), this will cause launch time delays
+[20Dec2024 03:25:55.116] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:55.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:25:55.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:25:56.498] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:25:59.679] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:00.476] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:02.166] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:05.012] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:05.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin was shot by Skeleton Girl
+[20Dec2024 03:26:05.949] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:26:05.962] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:26:06.664] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:09.867] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:10.720] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:12.009] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:14.066] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:15.719] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:18.411] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:20.717] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:21.412] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:23.716] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:27.468] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:28.513] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:29.214] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:29.912] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:30.712] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:31.512] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:32.863] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:33.562] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:45.467] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:26:47.510] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:27:11.819] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:27:23.464] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:27:47.817] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:27:48.964] [Server thread/DEBUG] [dev.limonblaze.originsclasses.OriginsClasses/]: 0
+[20Dec2024 03:28:27.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN is bleeding. MAIDERMAN was slain by Clicker
+[20Dec2024 03:28:27.946] [Server thread/WARN] [tombstone/]: The death event of the player MAIDERMAN was canceled by another mod
+[20Dec2024 03:28:27.959] [Server thread/INFO] [tombstone/]: The player MAIDERMAN has successfully been saved
+[20Dec2024 03:28:39.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin died from dehydration
+[20Dec2024 03:28:39.053] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:28:39.062] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:28:57.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin died from dehydration
+[20Dec2024 03:28:57.049] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:28:57.056] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:29:06.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN is bleeding. MAIDERMAN died from dehydration
+[20Dec2024 03:29:06.546] [Server thread/WARN] [tombstone/]: The death event of the player MAIDERMAN was canceled by another mod
+[20Dec2024 03:29:06.552] [Server thread/INFO] [tombstone/]: The player MAIDERMAN has successfully been saved
+[20Dec2024 03:29:07.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin died from dehydration
+[20Dec2024 03:29:07.044] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:29:07.051] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:29:13.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN died from dehydration
+[20Dec2024 03:29:13.823] [Server thread/DEBUG] [tombstone/]: A new grave of the player MAIDERMAN was created at position [x:663, y:151, z:-136, dim:minecraft:overworld]
+[20Dec2024 03:29:15.171] [Server thread/DEBUG] [twilightforest/]: Player MAIDERMAN (523be261-c943-38d1-b494-39cabb2c697c) respawned and received items held in storage
+[20Dec2024 03:29:17.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin died from dehydration
+[20Dec2024 03:29:17.403] [Server thread/DEBUG] [tombstone/]: A new grave of the player GValentin was created at position [x:659, y:151, z:-139, dim:minecraft:overworld]
+[20Dec2024 03:29:18.628] [Server thread/DEBUG] [twilightforest/]: Player GValentin (e5126bd2-c62d-35be-911d-c923c30297e0) respawned and received items held in storage
+[20Dec2024 03:29:58.718] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.719] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.720] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.752] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.752] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.753] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:29:58.753] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:17.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Monster Hunter]
+[20Dec2024 03:30:21.412] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_17 is being run through DFU (hash 4f3740a04bde695030335307eb6887e52117d7d73f287d5c2b35f561572d09dd), this will cause launch time delays
+[20Dec2024 03:30:27.078] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=850, y=-38, z=-412} at Chest with:graveyard:chests/crypt_loot
+[20Dec2024 03:30:27.371] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:27.371] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:27.389] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:27.389] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.522] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.523] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.523] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.524] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.525] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.641] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:37.642] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:30:48.853] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:ruin/glacial/interior216
+[20Dec2024 03:30:53.408] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_13 is being run through DFU (hash 095d46cb310c2816937d32c79500d98da0f89d4e3099785017a96fe3067cf5b8), this will cause launch time delays
+[20Dec2024 03:30:55.388] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:30:55.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 03:30:56.611] [Worker-Main-3/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_06 is being run through DFU (hash f1d53644703d518b5268e140eebe3bef6d450610d126983900dce702abf35b53), this will cause launch time delays
+[20Dec2024 03:31:12.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has made the advancement [Monster Hunter]
+[20Dec2024 03:31:21.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GValentin moved too quickly! -8.147312650385857,-0.125,6.038963579827055
+[20Dec2024 03:31:21.278] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2604ms or 52 ticks behind
+[20Dec2024 03:31:22.453] [Worker-Main-1/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER
+[20Dec2024 03:31:22.454] [Worker-Main-1/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class com.ferreusveritas.dynamictrees.block.rooty.RootyBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class net/minecraft/client/color/block/BlockColors for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[20Dec2024 03:31:49.679] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.317] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.317] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.318] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.318] [Worker-Main-1/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:31:54.436] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'reach-entity-attributes:reach'
+[20Dec2024 03:32:14.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN is bleeding. MAIDERMAN was slain by Runner
+[20Dec2024 03:32:14.396] [Server thread/WARN] [tombstone/]: The death event of the player MAIDERMAN was canceled by another mod
+[20Dec2024 03:32:14.406] [Server thread/INFO] [tombstone/]: The player MAIDERMAN has successfully been saved
+[20Dec2024 03:32:32.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin is bleeding. GValentin was slain by Runner
+[20Dec2024 03:32:32.947] [Server thread/WARN] [tombstone/]: The death event of the player GValentin was canceled by another mod
+[20Dec2024 03:32:32.962] [Server thread/INFO] [tombstone/]: The player GValentin has successfully been saved
+[20Dec2024 03:32:54.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin was slain by Runner
+[20Dec2024 03:32:54.707] [Server thread/DEBUG] [tombstone/]: A new grave of the player GValentin was created at position [x:662, y:191, z:-249, dim:minecraft:overworld]
+[20Dec2024 03:32:55.948] [Server thread/DEBUG] [twilightforest/]: Player GValentin (e5126bd2-c62d-35be-911d-c923c30297e0) respawned and received items held in storage
+[20Dec2024 03:33:07.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has made the advancement [Knowledge of Death]
+[20Dec2024 03:33:07.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has reached the goal [A Fast Comeback]
+[20Dec2024 03:33:10.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN was slain by Runner
+[20Dec2024 03:33:10.103] [Server thread/DEBUG] [tombstone/]: A new grave of the player MAIDERMAN was created at position [x:668, y:193, z:-271, dim:minecraft:overworld]
+[20Dec2024 03:33:11.319] [Server thread/DEBUG] [twilightforest/]: Player MAIDERMAN (523be261-c943-38d1-b494-39cabb2c697c) respawned and received items held in storage
+[20Dec2024 03:33:24.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has made the advancement [Knowledge of Death]
+[20Dec2024 03:33:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has reached the goal [A Fast Comeback]
+[20Dec2024 03:33:29.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MAIDERMAN has reached the goal [Here They Come]
+[20Dec2024 03:34:12.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GValentin has made the advancement [Knowledge raises the soul]
+[20Dec2024 03:35:57.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 03:35:57.950] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
